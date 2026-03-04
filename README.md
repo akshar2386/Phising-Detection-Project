@@ -1,8 +1,6 @@
 
 # Phising-Detection-Project
-=======
 # EE 467 – Phishing Website Detection
-
 **Team:** Pravir Goosari, Akshath Rao, Rohan Sriram
 
 Binary classification of websites as phishing (−1) or legitimate (1) using the
