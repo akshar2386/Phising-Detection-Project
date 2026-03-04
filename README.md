@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+
 # Phising-Detection-Project
-EE 467 Project and Presentation
 =======
 # EE 467 – Phishing Website Detection
 
